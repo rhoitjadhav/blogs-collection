@@ -1,5 +1,7 @@
 # Exploring Python Dictionary Operations: Harnessing the Power of Key-Value Pairs
 
+<img src="images/exploring-python-dictionary-operations-harnessing-the-power-of-key-value-pairs.jpeg">
+
 Python dictionaries are a powerful tool for efficient data organization using key-value pairs. In this
 blog post, we’ll delve into key sections of dictionary operations, providing code examples along the way.
 
