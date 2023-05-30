@@ -1,5 +1,8 @@
 # **Python List Operations: Tips and Tricks for Efficient Programming**
 
+<img src="https://github.com/rhoitjadhav/blogs-collection/blob/main/images/python-list-operations-tips-and-tricks-for-efficient-programming.jpeg">
+
+
 List is a versatile data type in Python that can be used to store a collection of data in an ordered sequence. Lists can
 be modified, reordered, and iterated upon, making them a useful tool in many Python programs.
 
